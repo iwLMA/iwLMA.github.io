@@ -1,0 +1,18 @@
+---
+layout: default
+type: journal
+---
+
+<time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%d %B %Y' }}</time>
+<h1>{{ page.title }}</h1>
+{{ content }}
+<nav>
+	<ul>
+		{% if page.previous %}
+			<li class="prev"><a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
+		{% endif %}
+		{% if page.next %}
+			<li class="next"><a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></li>
+		{% endif %}
+	</ul>
+</nav>
