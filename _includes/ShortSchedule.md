@@ -4,14 +4,12 @@
 
 ### 9:30 - 10:15 | Morning Talk Session I (15 minute talks + Data Blitz)
 
-Martes 9:30H - 9:45 H  |  Curtis, Evan  |  A Single-System Account Of Selective Memory Impairment: Reconsolidating Implicit And Explicit Memory
-
-Martes 9:45H - 10:00 H  |  D’angelo, Maria C.  |  Relational Learning And Inference In Aging And Amnesia
-
-Martes 10:00H - 10:15 H  |  Rosner, Tamara  |  A Repetition Suppression Effect In Recognition Memory
-
-
-Martes 10:15H - 10:20 H  |  Collins, Robert  |  The Fluency Heuristic In Repetition Priming | Data-Blitz
+|Day Time | Presenter| Title||
+|---------|----------|------||
+|Martes 9:30H - 9:45 H  |  Curtis, Evan  |  A Single-System Account Of Selective Memory Impairment: Reconsolidating Implicit And Explicit Memory||
+|Martes 9:45H - 10:00 H  |  D’angelo, Maria C.  |  Relational Learning And Inference In Aging And Amnesia||
+|Martes 10:00H - 10:15 H  |  Rosner, Tamara  |  A Repetition Suppression Effect In Recognition Memory||
+|Martes 10:15H - 10:20 H  |  Collins, Robert  |  The Fluency Heuristic In Repetition Priming | Data-Blitz|
 
 ### 10:30 - 11:00 | Coffee-Break
 
