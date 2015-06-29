@@ -56,7 +56,7 @@ Martes 13:15H - 14:00 H  |  Triviño, Monica  |  Are Confabulations A Memory Or 
 |Day Time | Presenter| Title||
 |---------|----------|------||
 |Miercoles 11:00H - 11:45 H  |  Jamieson, Randy  |  Item-Level Analysis Of Implicit Learning|45|
-|Miercoles 11:45H - 12:30 H  |  Crump, Matthew  |  Some Thoughts On Memory Experiments|45|
+|Miercoles 11:45H - 12:30 H  |  Crump, Matthew  |  Learning, Memory And The Control Of Serial Order For Action|45|
 
 ### 12:45 - 13:15 | Coffee-Break
 
