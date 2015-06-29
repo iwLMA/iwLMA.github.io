@@ -1,0 +1,10 @@
+---
+layout: default
+title: Presentation Schedule
+---
+
+  <section id="main-content">
+          	{% capture frontstuff %}{% include ShortSchedule.md %}{% endcapture %}
+			{{ frontstuff  | markdownify }}
+	</section>
+
