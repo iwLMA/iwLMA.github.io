@@ -88,6 +88,14 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 
 ### 10:30 - 11:00 | Coffee-Break + Poster Session II
 
+|Day Time | Presenter| Title|
+|---------|----------|------|
+|Jueves 10:30 - 11:00, 12:45 - 13:15|  Díaz, Paloma  |  Studying Unconscious Processing Using Emotional Faces In Interpersonal Decisions
+|Jueves 10:30 - 11:00, 12:45 - 13:15|  Ortega, Almudena   |  Memory, Aging And The Executive Déficit Hypothesis
+|Jueves 10:30 - 11:00, 12:45 - 13:15|  Collins, Robert  |  The Complex Interplay Of Encoding Demands, Repetition, And Recognition
+|Jueves 10:30 - 11:00, 12:45 - 13:15|  Spears, Daniel F.  |  Reflection And Utilitarianism: Higher Scores On Crt After Receiving Feedback Lead To More Utilitarian Decisions
+|Jueves 10:30 - 11:00, 12:45 - 13:15|  Lapointe, Mitch  |  Conflicting Effects Of Context In Change Detection And Visual Search:  A Dual Process Account
+
 ### 11:00- 12:30 | Morning Talk Session II (30+ minute talk)
 
 |Day Time | Presenter| Title||
@@ -134,13 +142,4 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 ## Posters
 
 
-X X  |  Díaz, Paloma  |  Studying Unconscious Processing Using Emotional Faces In Interpersonal Decisions
-
-X X  |  Ortega, Almudena   |  Memory, Aging And The Executive Déficit Hypothesis
-
-X X  |  Collins, Robert  |  The Complex Interplay Of Encoding Demands, Repetition, And Recognition
-
-X X  |  Spears, Daniel F.  |  Reflection And Utilitarianism: Higher Scores On Crt After Receiving Feedback Lead To More Utilitarian Decisions
-
-X X  |  Lapointe, Mitch  |  Conflicting Effects Of Context In Change Detection And Visual Search:  A Dual Process Account
 
