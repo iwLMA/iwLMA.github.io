@@ -6,27 +6,22 @@
 
 |Day Time | Presenter| Title||
 |---------|----------|------||
-|Martes 11:00H - 11:45 H  |  Milliken, Bruce  |  Event Integration: Action Binding Effects On Perception, Memory, And Awareness.|45|
+|Martes 9:30H - 10:15 H  |  Milliken, Bruce  |  Event Integration: Action Binding Effects On Perception, Memory, And Awareness.|45|
 
 ### 10:30 - 11:00 | Coffee-Break
 
-### 11:00- 11:45 | Morning Talk Session II (15 minute talks + Data Blitz)
+### 11:00- 12:45 | Morning Talk Session II (15 minute talks + Data Blitz)
 
 |Day Time | Presenter| Title||
 |---------|----------|------||
-|Martes 9:30H - 9:45 H|  D’angelo, Maria C.  |  Relational Learning And Inference In Aging And Amnesia|15|
-|Martes 9:45H - 10:00 H|  Curtis, Evan  |  A Single-System Account Of Selective Memory Impairment: Reconsolidating Implicit And Explicit Memory|15|
-|Martes 10:00H - 10:15 H  |  Rosner, Tamara  |  A Repetition Suppression Effect In Recognition Memory|15|
-|Martes 10:15H - 10:20 H  |  Collins, Robert  |  The Fluency Heuristic In Repetition Priming | 5|
-
-### 11:45- 12:30 | Afternoon Talk Session I (15 minute talks + Data Blitz)
-
-|Day Time | Presenter| Title||
-|---------|----------|------||
+|Martes 11:00H - 11:15 H|  D’Angelo, Maria C.  |  Relational Learning And Inference In Aging And Amnesia|15|
+|Martes 11:15H - 11:30 H|  Curtis, Evan  |  A Single-System Account Of Selective Memory Impairment: Reconsolidating Implicit And Explicit Memory|15|
+|Martes 11:30H - 11:45 H  |  Rosner, Tamara  |  A Repetition Suppression Effect In Recognition Memory|15|
 |Martes 11:45H - 12:00 H  |  Ortiz-Tudela, Javier  |  Intellectual Crowdfunding: False Memories And Reconsolidation.|15|
 |Martes 12:00H - 12:15 H  |  Colás, Itsaso  |  Are Attention Networks Damaged In Confabulating Patients? A Comparison Between Confabulators, Frontal Patients And Normal Population|15|
 |Martes 12:15H - 12:30 H  |  Triviño, Mónica  |  The Effect Of A Neuropsychological Treatment On Confabulations: A Longitudinal Study With Diffusion Tensor Imaging|15|
 |Martes 12:30H - 12:35 H  |  Conejero, Ángela  |  Neural Mechanisms Of Error Detection In 16 - 18 Months Babies And Its Modulation By Socioeconomical Environment. |5|
+|Martes 12:35H - 12:40 H  |  Collins, Robert  |  The Fluency Heuristic In Repetition Priming | 5|
 
 ### 12:45 - 13:15 | Coffee-Break
 
