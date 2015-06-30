@@ -10,7 +10,7 @@ Kahneman, Treisman and Gibbs (1992) introduced the idea that perception and acti
 
 ## Relational Learning and Inference in Aging and Amnesia
 	 Martes | 11:00h - 11:15 h | 15 minute talk
-	 Kamino, Daphne; Ostreicher, Melanie; Moses, Sandra N.; Rosenbaum, R. Shayna; Ryan, Jennifer D.
+	 D’Angelo, Maria C.; Kamino, Daphne; Ostreicher, Melanie; Moses, Sandra N.; Rosenbaum, R. Shayna; Ryan, Jennifer D.
 	 Rotman Research Institute, Baycrest
 	 D’Angelo, Maria C.  |  mdangelo@research.baycrest.org
 
@@ -26,7 +26,7 @@ Individuals with amnesia have great difficulty recognizing items they have studi
 
 ## A repetition suppression effect in recognition memory
 	 Martes | 11:30h - 11:45 h | 15 minute talk
-	 Raul Lopez Benitez; Bruce Milliken
+	 Rosner, Tamara ; Raul Lopez Benitez; Bruce Milliken
 	 McMaster University
 	 Rosner, Tamara  |  trosner@uwaterloo.ca
 
@@ -74,7 +74,7 @@ Desirable difficulty is a well studied but seemingly counter-intuitive phenomena
 
 ## ARE CONFABULATIONS A MEMORY OR A SELECTIVE ATTENTION DEFICIT?
 	 Martes | 13:15h - 14:00 h | 30 minute talk
-	 Estrella Rodenas; Juan Lupiañez; Marisa Arnedo
+	 Triviño, Mónica; Estrella Rodenas; Juan Lupiañez; Marisa Arnedo
 	 Neuropsychologist. Hospital Universitario San Rafael
 	 Triviño, Mónica  |  mtrivino@ugr.es
 
@@ -98,7 +98,7 @@ The belief that men like sports and women like to shop pervades North American s
 
 ## Implicit learning of structure in natural language
 	 Miercoles | 10:00h - 10:15 h | 15 minute talk
-	 Johns, Brendan T.; Jamieson, R. K.; Mewhort, D. J. K.
+	 Chubala, Chrissy M.; Johns, Brendan T.; Jamieson, R. K.; Mewhort, D. J. K.
 	 University of Manitoba
 	 Chubala, Chrissy M.  |  umchubal@myumanitoba.ca
 
@@ -106,7 +106,7 @@ Studies of implicit learning have traditionally focused on peoples’ sensitivit
 
 ## Reflection and Utilitarianism: Higher scores on CRT after receiving feedback lead to more utilitarian decisions
 	 Miercoles | 10:15h - 10:20 h | 5 minute data-blitz
-	 Yasmina Okan; María Ruz; Felisa González   
+	 Spears, Daniel F.; Yasmina Okan; María Ruz; Felisa González   
 	 University of Granada
 	 Spears, Daniel F.  |  daniel.sprs@gmail.com
 
@@ -138,7 +138,7 @@ Humans have the ability to use instructions to guide our actions, which allows u
 
 ## Desirable difficulty: The benefit of perceptual disfluency on remembering
 	 Miercoles | 10:30 - 11:00, 12:45 - 13:15 | Poster
-	 Hanae Davis; Zahra Khalesi; Bruce Milliken
+	 Rosner, Tamara; Hanae Davis; Zahra Khalesi; Bruce Milliken
 	 McMaster University
 	 Rosner, Tamara  |  trosner@uwaterloo.ca
 
@@ -146,7 +146,7 @@ Perceptual disfluencies produce dissociations between word naming time and memor
 
 ## The Attentional Blink is Modulated by Attentional Set
 	 Miercoles | 10:30 - 11:00, 12:45 - 13:15 | Poster
-	 David Shore; Bruce Milliken
+	 MacLellan, Ellen; David Shore; Bruce Milliken
 	 McMaster University
 	 MacLellan, Ellen  |  maclele@mcmaster.ca
 
@@ -154,7 +154,7 @@ Attentional selection is critical to attentional blink (AB). Selectively attendi
 
 ## Control Deprivation and Cognitive Control: Three Types of Attentional Conflict
 	 Miercoles | 10:30 - 11:00, 12:45 - 13:15 | Poster
-	 Julian Hernandez-Pumarejo-Marcin Bukowski-Alberto Acosta-Juan Lupiáñez
+	 Julian Hernandez-Pumarejo-Marcin; Bukowski-Alberto Acosta-Juan Lupiáñez
 	 University of Granada
 	 Hernández-Pumarejo, Julian  |  julianmhpumarejo@gmail.com
 
@@ -162,7 +162,7 @@ Control deprivation has been associated to a series of cognitive performance def
 
 ## Item-level analysis of implicit learning
 	 Miercoles | 11:00h - 11:45 h | 30 minute talk
-	 NA
+	 Jamieson, Randy
 	 University of Manitoba
 	 Jamieson, Randy  |  randy.jamieson@umanitoba.ca
 
@@ -178,23 +178,21 @@ learning will benefit by shifting away from the prevailing strategy of
 category-level analysis toward the more precise and certain strategy of
 fitting item-level performance.
 
-## Some thoughts on memory experiments
+## Learning, Memory, And The Control Of Serial Action
 	 Miercoles | 11:45h - 12:30 h | 30 minute talk
 	 Matthew Crump; Lawrence Behmer
 	 Brooklyn College of CUNY
 	 Crump, Matthew  |  mcrump@brooklyn.cuny.edu
 
-Here I will present a model that does X and Y, and an Experiment that tests x and y.
 
 ## Activites of daily living and executive functions in dementia, mild cognitive impairment and frontal lobe patients
 	 Miercoles | 13:15h - 14:00 h | 30 minute talk
 	 María J. Funes, María Rodríguez Bailón, Tamara García Morán, Nuria Montoro Membila, Mónica Triviño, Estrella Ródenas, Marisa Arnedo
-	 NA
-	 Funes Molina, María Jesús  |  NA
+	 University of Granada
+	 Funes Molina, María Jesús  |  
 
-NA
 
-## NA
+## Is the Vigilance Decrement Obligatory?
 	 Jueves | 9:30h - 9:45 h | 15 minute talk
 	 David R Thomson; Derek Besner; Daniel Smilek
 	 University of Waterloo
@@ -204,7 +202,7 @@ It is well known that when human observers must monitor for rare but critical ev
 
 ## Individual differences in vigilance capacity as a function of the practice of aerobic exercise.
 	 Jueves | 9:45h - 10:00 h | 15 minute talk
-	 Antonio Luque-Casado; Pandelis Perakakis
+	 Sanabria, Daniel; Antonio Luque-Casado; Pandelis Perakakis
 	 Mind Brain and Behavior Research Center
 	 Sanabria, Daniel  |  daniel@ugr.es
 
@@ -223,10 +221,8 @@ The results showed an influence of control mechanisms in order to observe both W
 ## Relationship between Cognitive control and emotional Regulation and its modulation by state anxiety
 	 Jueves | 10:15h - 10:30 h | 15 minute talk
 	 María A. Leyva, Joaquín M. M. Vaquero, José Luis Mata, Alberto Acosta & María J. Funes
-	 NA
-	 Funes Molina, María Jesús  |  NA
-
-NA
+	 University of Granada
+	 Funes Molina, María Jesús  |  
 
 ## Studying unconscious processing using emotional faces in interpersonal decisions
 	 Jueves | 10:30 - 11:00, 12:45 - 13:15 | Poster
@@ -239,7 +235,7 @@ Over the last decades, there has been a revival in the study of unconsciousness 
 ## Memory, aging and the executive déficit hypothesis
 	 Jueves | 10:30 - 11:00, 12:45 - 13:15 | Poster
 	 Ortega, Almudena; Aguirre, Carmen; Gómez-Ariza, Carlos J.; Bajo, M.Teresa
-	 NA
+	 University of Granada
 	 Almudena, Ortega  |  Almudena Ortega@ugr.es
 
 An influential view on cognitive development suggests that aging brings a decline in inhibitory efficiency (Hasher & Zacks, 1988). Because of this inhibitory deficit the elderly are less able to control interference from irrelevant (external or internal) or to withdraw dominant but inappropriate responses. Evidence supporting this inhibitory account of cognitive aging comes from a variety of experimental tasks thought to draw on inhibitory control (for a review see Lustig, Hasher, & Zacks, 2007). Unfortunately, however, the evidence for reduced inhibitory effects for older adults has not been entirely consistent, with some authors reporting clear age equivalence in some inhibitory tasks (e.g., Aslan, Baüml, & Pastötter, 2007). Based on these contrasting results, some have proposed that there might be a fundamental difference between intentional/controlled and automatic/unintentional  inhibition with the latest being intact in older people (Andrés, Guerrini, Phillips, & Perfect, 2008) or even that mechanism other than inhibition may be responsible for the greater susceptibility to interference of older people. Here, we report data suggesting that, in contrast to these views, the critical factor to find age differences may be the overall challenge posed by the inhibition task. Thus, we show age differences in both intentional (directed forgetting) and non-intentional tasks (Retrieval practice) when the demands for executive control are increased. In addition, we extend these findings to face and name retrieval where alternative mechanisms have been proposed to explain age differences.
@@ -254,7 +250,7 @@ Rosner, López-Benítez, and Milliken (2014, BBCS) reported that recognition mem
 
 ## Reflection and Utilitarianism: Higher scores on CRT after receiving feedback lead to more utilitarian decisions
 	 Jueves | 10:30 - 11:00, 12:45 - 13:15 | Poster
-	 Yasmina Okan; María Ruz; Felisa González   
+	 Spears, Daniel F.; Yasmina Okan; María Ruz; Felisa González   
 	 University of Granada
 	 Spears, Daniel F.  |  daniel.sprs@gmail.com
 
@@ -278,7 +274,7 @@ Perception and action are intimately intertwined.  The traditional model of huma
 
 ## Attentional modulations of conscious perception
 	 Jueves | 11:45h - 12:30 h | 30 minute talk
-	 NA
+	 Chica, Ana B.
 	 University of Granada
 	 Chica, Ana B.  |  anachica@ugr.es
 
@@ -302,7 +298,7 @@ Although recent studies highlight the influence of non-conscious information on 
 
 ## The Impact of Imagination on Priming of Popout 
 	 Viernes | 9:45h - 10:00 h | 15 minute talk
-	 Nwabuike, Andrea; Thomson, Dave; Milliken, Bruce
+	 Cochrane, Brett; Nwabuike, Andrea; Thomson, Dave; Milliken, Bruce
 	 McMaster
 	 Cochrane, Brett  |  cochraba@mcmaster.ca
 
@@ -318,7 +314,7 @@ Development of the executive attention network (EAN) in the brain has been relat
 
 ## Perceptual Similarity Induces Overinvestement in an Attentional Blink Task
 	 Viernes | 10:15h - 10:30 h | 15 minute talk
-	 David Shore; Bruce Milliken
+	 MacLellan, Ellen; David Shore; Bruce Milliken
 	 McMaster University
 	 MacLellan, Ellen  |  maclele@mcmaster.ca
 
@@ -342,7 +338,7 @@ Past research has shown that objects that are semantically incongruent with a su
 
 ## From Inhibition of Return to object detection and object identification
 	 Viernes | 13:15h - 14:00 h | 30 minute talk
-	 NA
+	 Juan Lupiáñez
 	 Universidad de Granada
 	 Lupiáñez, Juan  |  jlupiane@ugr.es
 
