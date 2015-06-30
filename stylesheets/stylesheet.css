@@ -900,9 +900,9 @@ footer a:hover {
    display: none;
   }
   #mobLinks {
-    display: inline-block;
+    display: inline;
     text-align: center;
-    font-size: 13px;
+    font-size: 20px;
     background-color: #9ddcff;
   }
 }
