@@ -901,6 +901,9 @@ footer a:hover {
   }
   #mobLinks {
     display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    background-color: #9ddcff;
   }
 }
 
