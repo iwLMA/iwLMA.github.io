@@ -22,7 +22,7 @@ Compostela).
 
 ## Abstract Submission
 
-To be announced soon.
+Abstract submission is now closed.
 
 ### Conference Organizers
 
