@@ -1,7 +1,7 @@
 # Conference Abstracts
 
 ## Event integration: Action binding effects on perception, memory, and awareness.
-	 Martes | 9:30h - 10:15 h | 30-40 minute talk
+	 Martes | 9:30h - 10:15 h | 30 minute talk
 	 Bruce Milliken; Chris Fiacconi; Juan Lupiáñez; 
 	 McMaster University
 	 Milliken, Bruce  |  millike@mcmaster.ca
@@ -73,7 +73,7 @@ At the end of the first year of post-natal life babies start to exhibit certain 
 Desirable difficulty is a well studied but seemingly counter-intuitive phenomena that increased difficulty of encoding strategies leads to improved retention and episodic retrieval (Bjork, 1994). An emerging body of evidence indicates this effect can extend to perceptually degraded items- a perceptual desirable difficulty effect- using a number of fluency manipulations. One interesting possibility is that repetition priming may not always be beneficial for encoding and retrieval. Indeed, Rosner, López-Benítez, and Milliken (2014, BBCS) reported recognition memory can be more sensitive for study items presented once (not-repeated) than for study items presented twice (repeated). To further examine the processes driving the effect, we first replicated the results, and investigated a number of other encoding demands. Participants completed an incidental study phase involving presentations of prime and target words, encoding the prime under varying conditions: (1) Ignoring; (2) Divided Attention; (3) Count the Vowels; (4) Naming; and (5) Semantic Categorization. Results indicate better recognition for not-repeated items when encoding for the prime was impoverished, and better recognition for repeated items when attention to the prime was high. We believe this indicates processing fluency may act as a heuristic to guide attention and encoding.
 
 ## ARE CONFABULATIONS A MEMORY OR A SELECTIVE ATTENTION DEFICIT?
-	 Martes | 13:15h - 14:00 h | 30-40 minute talk
+	 Martes | 13:15h - 14:00 h | 30 minute talk
 	 Estrella Rodenas; Juan Lupiañez; Marisa Arnedo
 	 Neuropsychologist. Hospital Universitario San Rafael
 	 Triviño, Mónica  |  mtrivino@ugr.es
@@ -161,7 +161,7 @@ Attentional selection is critical to attentional blink (AB). Selectively attendi
 Control deprivation has been associated to a series of cognitive performance deficits. These arrive as a result of prolonged cognitive engagement, and failure to produce successful performance outcomes. A study by Bukowsky, Asanowicz, Marzecova & Lupiáñez (2014), provides evidence that these deficits can also have detrimental effects on cognitive control. This study seeks to further disentangle the domain-general or domain-specific characteristics of these deficits by implementing an attentional control task conformed of three different types of conflicts. Seventy participants were divided into two groups, one would be control deprived and the other would not. We induced control deprivation through informational helplessness training, a task developed by Kofta & Sedek (1990), where a series of discrimination problems were either solvable or unsolvable. Consequently, both groups would execute an attentional control task where they confronted three different types of conflict interference: a) irrelevant distractor interference, b) Simon interference, c) spatial Stroop interference. Results showed that control deprivation deficits, may not be domain-general, but rather domain-specific, generating greater Simon interference and less to none interference in the spatial Stroop for control deprived participants, while both groups performance was similar in the irrelevant distractors inhibition task.
 
 ## Item-level analysis of implicit learning
-	 Miercoles | 11:00h - 11:45 h | 30-40 minute talk
+	 Miercoles | 11:00h - 11:45 h | 30 minute talk
 	 NA
 	 University of Manitoba
 	 Jamieson, Randy  |  randy.jamieson@umanitoba.ca
@@ -179,7 +179,7 @@ category-level analysis toward the more precise and certain strategy of
 fitting item-level performance.
 
 ## Some thoughts on memory experiments
-	 Miercoles | 11:45h - 12:30 h | 30-40 minute talk
+	 Miercoles | 11:45h - 12:30 h | 30 minute talk
 	 Matthew Crump; Lawrence Behmer
 	 Brooklyn College of CUNY
 	 Crump, Matthew  |  mcrump@brooklyn.cuny.edu
@@ -187,7 +187,7 @@ fitting item-level performance.
 Here I will present a model that does X and Y, and an Experiment that tests x and y.
 
 ## Activites of daily living and executive functions in dementia, mild cognitive impairment and frontal lobe patients
-	 Miercoles | 13:15h - 14:00 h | 30-40 minute talk
+	 Miercoles | 13:15h - 14:00 h | 30 minute talk
 	 María J. Funes, María Rodríguez Bailón, Tamara García Morán, Nuria Montoro Membila, Mónica Triviño, Estrella Ródenas, Marisa Arnedo
 	 NA
 	 Funes Molina, María Jesús  |  NA
@@ -269,7 +269,7 @@ This study was aimed at testing the ability of the Cognitive Reflection Test (CR
 Much research has shown a benefit of contextual congruity in visual search and categorization tasks using natural scenes. A congruent context is thought to contain predictive information pertaining to the types of objects likely to be encountered, as well as their location. However, in change detection tasks, a congruent context often impairs performance compared with changes embedded in incongruent contexts. Using a stimulus set controlled for object salience, we compare performance in change detection and visual search. We offer a dual process account including detection and identification, each of which is differentially emphasized across tasks, producing conflicting results. 
 
 ## Action effects on the perception of multisensory events
-	 Jueves | 11:00h - 11:45 h | 30-40 minute talk
+	 Jueves | 11:00h - 11:45 h | 30 minute talk
 	 Finkelshtein, A.; Vallet, G.; Shore, D.I.
 	 McMaster University
 	 Shore, David I.  |  dshore@mcmaster.ca
@@ -277,7 +277,7 @@ Much research has shown a benefit of contextual congruity in visual search and c
 Perception and action are intimately intertwined.  The traditional model of human performance posits that perception leads to action, but more recent evidence highlights the effect that action can have on perception. Indeed, the perceived onset of an auditory tone can be moved forward in time when it is preceded by a voluntary action—a phenomenon termed intentional binding (Haggard, Clark & Kalogeras, 2002, Nat. Neuro.). The present research examines the relative strength of binding across the three spatiotemporal modalities—vision, audition, and touch. Using a temporal order judgment task following a voluntary action, the relative timing of each modality pair was examined. Additionally, each stimulus could appear close to the preceding action or on the opposite hand.  For visuotactile and audiotactile pairings, the relative spatial location mattered, whereas for the audiovisual pairing space was irrelevant. The results are discussed in terms of differential perception–action linkages for each modality.
 
 ## Attentional modulations of conscious perception
-	 Jueves | 11:45h - 12:30 h | 30-40 minute talk
+	 Jueves | 11:45h - 12:30 h | 30 minute talk
 	 NA
 	 University of Granada
 	 Chica, Ana B.  |  anachica@ugr.es
@@ -285,7 +285,7 @@ Perception and action are intimately intertwined.  The traditional model of huma
 The relationships between attention and conscious perception are currently the object of intense debate. Recent evidence of double dissociations between attention and consciousness cast doubt on the time-honored concept of attention as a gateway to consciousness. Here we review evidence from behavioral, neurophysiologic, neuropsychological, and neuroimaging experiments, showing that distinct sorts of attention can have different effects on visual conscious perception. 
 
 ## Holistic Processing From Learned Attention to Parts
-	 Jueves | 13:15h - 14:00 h | 30-40 minute talk
+	 Jueves | 13:15h - 14:00 h | 30 minute talk
 	 Jennifer J. Richler; Kao-Wei Chua; Isabel Gauthier
 	 Vanderbilt University
 	 Richler, Jennifer  |  jennifer.j.richler@vanderbilt.edu
@@ -325,7 +325,7 @@ Development of the executive attention network (EAN) in the brain has been relat
 Devoting fewer attentional resources to T1 encoding results in an attenuation of the attentional blink (AB) effect (Olivers et al 2005;2006). Using a modified two target procedure, across two experiments we found evidence of an AB for T1 items that generally would not produce an AB, when they are presented in a context that requires selective attention on some proportion of trials. The results support the claim that experimental context can influence the extent to which overinvestment occurs in an AB task.
 
 ## The many faces of familiarity: From attributions to affect
-	 Viernes | 11:00h - 11:45 h | 30-40 minute talk
+	 Viernes | 11:00h - 11:45 h | 30 minute talk
 	 Chris M. Fiacconi; Stefan Köhler
 	 The University of Western Ontario
 	 Fiacconi, Chris  |  cfiacco@uwo.ca
@@ -333,7 +333,7 @@ Devoting fewer attentional resources to T1 encoding results in an attenuation of
 Many theoretical models of recognition memory posit that stimulus recognition can occur in the absence of explicitly retrieved contextual information surrounding the event in question (e.g., “butcher-on-the-bus” phenomenon). Typically referred to as familiarity-based recognition memory, this phenomenon is thought to be accompanied by a compelling subjective ‘feeling’ that an item or event has been previously encountered. However, it is at present unclear as to whether ‘feelings’ of familiarity share the same biological basis as other feeling states more traditionally defined. Guided by the framework that feelings result from the conscious perception of visceral bodily signals, we examined the extent to which ‘feelings’ of familiarity are shaped by feedback from the autonomic nervous system. Consistent with these ideas, we found that naturally occurring afferent cardiovascular feedback can enhance the subjective ‘feeling’ of familiarity, and that this enhancement may depend on inter-individual differences in perceptual sensitivity to this feedback. We discuss these results in relation to attribution processes, outlining the potential role for such processes in the construction of subjective experience. 
 
 ## Do semantically incongruent objects attract attention?
-	 Viernes | 11:45h - 12:30 h | 30-40 minute talk
+	 Viernes | 11:45h - 12:30 h | 30 minute talk
 	 LaPointe, Mitch; Milliken, Bruce
 	 McMaster University
 	 LaPointe, Mitch  |  lapoimrp@mcmaster.ca
@@ -341,7 +341,7 @@ Many theoretical models of recognition memory posit that stimulus recognition ca
 Past research has shown that objects that are semantically incongruent with a surrounding scene are detected faster than objects that are semantically congruent. One account of these findings is that attention is attracted to objects whose identity conflicts with the meaning of the scene, perhaps as a violation of expectancies created by earlier recruitment of scene gist information. An alternative account of the performance benefit for incongruent objects is that attention is more apt to linger on incongruent objects, as perhaps identifying these objects is more difficult due to conflicting information from the scene context. In the current experiment, we present natural scenes in a change detection task while monitoring eye-movements. Although we do uncover some evidence that the eyes revisit and linger on objects that are semantically incongruent, we also find eye-gaze is attracted to these objects relative early and accurately during scene processing. 
 
 ## From Inhibition of Return to object detection and object identification
-	 Viernes | 13:15h - 14:00 h | 30-40 minute talk
+	 Viernes | 13:15h - 14:00 h | 30 minute talk
 	 NA
 	 Universidad de Granada
 	 Lupiáñez, Juan  |  jlupiane@ugr.es
