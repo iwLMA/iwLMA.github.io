@@ -53,6 +53,8 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Rosner, Tamara  |  Desirable Difficulty: The Benefit Of Perceptual Disfluency On Remembering |
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Maclellan, Ellen  |  The Attentional Blink Is Modulated By Attentional Set |
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Hernández-Pumarejo, Julián   |  Control Deprivation And Cognitive Control: Three Types Of Attentional Conflict |
+| Miercoles 10:30 - 11:00, 12:45 - 13:15| Santiago, Julio   |  Do we mentally simulate the content of language? The role of the motor cortex in sentence comprehension|
+
 
 ### 11:00- 12:30 | Morning Talk Session II (30+ minute talk)
 
