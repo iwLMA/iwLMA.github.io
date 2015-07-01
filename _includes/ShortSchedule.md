@@ -92,6 +92,8 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Collins, Robert  |  The Complex Interplay Of Encoding Demands, Repetition, And Recognition
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Spears, Daniel F.  |  Reflection And Utilitarianism: Higher Scores On Crt After Receiving Feedback Lead To More Utilitarian Decisions
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Lapointe, Mitch  |  Conflicting Effects Of Context In Change Detection And Visual Search:  A Dual Process Account
+|Jueves 10:30 - 11:00, 12:45 - 13:15| Santiago, Julio   |  Do we associate the bad with the side of the disfluent hand?
+
 
 ### 11:00- 12:30 | Morning Talk Session II (30+ minute talk)
 
