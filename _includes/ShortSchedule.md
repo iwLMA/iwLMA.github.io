@@ -52,8 +52,8 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Palenciano, Ana F.  |  Effects Of Practice During Preparation Of Verbal Instructions |
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Rosner, Tamara  |  Desirable Difficulty: The Benefit Of Perceptual Disfluency On Remembering |
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Maclellan, Ellen  |  The Attentional Blink Is Modulated By Attentional Set |
-| Miercoles 10:30 - 11:00, 12:45 - 13:15| Hernández-Pumarejo, Julián   |  Control Deprivation And Cognitive Control: Three Types Of Attentional Conflict |
 | Miercoles 10:30 - 11:00, 12:45 - 13:15| Santiago, Julio   |  Do we mentally simulate the content of language? The role of the motor cortex in sentence comprehension|
+|Miercoles 10:30 - 11:00, 12:45 - 13:15|  Spears, Daniel F.  |  Reflection And Utilitarianism: Higher Scores On Crt After Receiving Feedback Lead To More Utilitarian Decisions
 
 
 ### 11:00- 12:30 | Morning Talk Session II (30+ minute talk)
@@ -90,9 +90,9 @@ Martes 13:15H - 14:00 H  |  Triviño, Mónica  |  Are Confabulations A Memory Or
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Díaz, Paloma  |  Studying Unconscious Processing Using Emotional Faces In Interpersonal Decisions
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Ortega, Almudena   |  Memory, Aging And The Executive Déficit Hypothesis
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Collins, Robert  |  The Complex Interplay Of Encoding Demands, Repetition, And Recognition
-|Jueves 10:30 - 11:00, 12:45 - 13:15|  Spears, Daniel F.  |  Reflection And Utilitarianism: Higher Scores On Crt After Receiving Feedback Lead To More Utilitarian Decisions
 |Jueves 10:30 - 11:00, 12:45 - 13:15|  Lapointe, Mitch  |  Conflicting Effects Of Context In Change Detection And Visual Search:  A Dual Process Account
 |Jueves 10:30 - 11:00, 12:45 - 13:15| Santiago, Julio   |  Do we associate the bad with the side of the disfluent hand?
+|Jueves 10:30 - 11:00, 12:45 - 13:15| Hernández-Pumarejo, Julián   |  Control Deprivation And Cognitive Control: Three Types Of Attentional Conflict |
 
 
 ### 11:00- 12:30 | Morning Talk Session II (30+ minute talk)
