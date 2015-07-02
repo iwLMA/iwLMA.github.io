@@ -195,6 +195,8 @@ fitting item-level performance.
 	 Matthew Crump; Lawrence Behmer
 	 Brooklyn College of CUNY
 	 Crump, Matthew  |  mcrump@brooklyn.cuny.edu
+	 
+People have the extraordinary ability to control the order of their actions. How people accomplish action sequencing and become skilled at sequencing with practice are long-standing problems (Lashley, 1951; Rosenbaum, Cohen, Jax, Weiss, & van der Wel, 2007). We used the online crowd-sourcing service, Amazon Mechanical Turk (Crump, McDonnell, & Gureckis, 2013) to measure typing performance from hundreds of typists who naturally varied in skill level. The large data set allowed us to test competing predictions about the acquisition of serial-ordering ability that we derived from computational models of learning and memory (Elman, 1990; Logan, 1988).These models suggest that the time to execute actions in sequences will correlate with the statistical structure of actions in the sequence, and that the pattern of correlation changes in particular ways with practice. 
 
 
 ## Activites of daily living and executive functions in dementia, mild cognitive impairment and frontal lobe patients
