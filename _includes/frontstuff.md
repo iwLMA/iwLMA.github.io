@@ -20,9 +20,8 @@ Compostela).
 
 [Universidad de Granada](https://www.ugr.es/en/), Granada, Spain
 
-## Abstract Submission
-
-Abstract submission is now closed.
+## 2015 Group Picture
+![Image](images/2015_attendees.jpg?raw=true&class=inline&alt=hi)
 
 ### Conference Organizers
 
